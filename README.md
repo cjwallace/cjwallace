@@ -1,4 +1,4 @@
-# Hi 👋
+## Hi 👋
 
 ### I'm Chris, and I make things with computers.
 
