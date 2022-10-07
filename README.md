@@ -1,9 +1,11 @@
-### Hi 👋
 
-### I'm Chris, and I make things with computers.
+**Hello. I am Chris, and I make h̷̶̷̶ͪi̷̶̷̶ͥg̷̶h̷̶̷̶ͪ q̷̶u̷̶̷̶ͧa̷̶̷̶ͣl̷̶i̷̶̷̶ͥᴛ̷̶̷̶ⷮy̷̶ s̷̶͛o̷̶̷̶ͦf̷̶ᴛ̷̶̷̶ⷮw̷̶a̷̶̷̶ͣr̷̶̷̶ͬe̷̶̷̶ͤ things with computers.**
 
-I'm a data scientist, software engineer, and human on the internet. I've been charting roughly the opposite course to the popular one: I set out to be a data scientist, discovered a love of building things, and increasingly gravitate towards software design and development. I like making technology work for people, never vice versa.
+I'm a data scientist, software engineer, and human on the internet. I'm charting roughly the opposite course to the popular one: I became a data scientist, discovered a love of building things, and now gravitate towards software design and development.
 
-Right now, I'm at the [Recurse Center](https://www.recurse.com). Before that, I lead machine learning research engineering at [Fast Forward Labs](https://github.com/fastforwardlabs).
+Currently, I'm prototyping small in-browser tools, mostly for data work. You can read [posts](https://standard.dev/posts) I have written, and use [software](https://standard.dev/software) I have made.
 
-You can read things I've written over at [standard.dev](https://standard.dev). I don't [tweet](https://twitter.com/_cjwallace) much, but if we haven't met, it's the best way to say hi ✌️
+I don't [tweet](https://twitter.com/_cjwallace) much, but if we haven't met, it's a good way to say hi.
+
+✌️
+
