@@ -3,9 +3,8 @@
 
 I'm a data scientist, software engineer, and human on the internet. I'm charting roughly the opposite course to the popular one: I became a data scientist, discovered a love of building things, and now gravitate towards software design and development.
 
-Currently, I'm prototyping small in-browser tools, mostly for data work. You can read [posts](https://standard.dev/posts) I have written, and use [software](https://standard.dev/software) I have made.
+You can read [posts](https://standard.dev/posts) I have written, and use [software](https://standard.dev/software) I have made.
 
 I don't [tweet](https://twitter.com/_cjwallace) much, but if we haven't met, it's a good way to say hi.
 
 ✌️
-
